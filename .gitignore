@@ -1,3 +1,5 @@
 credentails.h
 *.old
 build/
+.vscode/
+.devcontainer/
